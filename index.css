@@ -1,0 +1,28 @@
+/*index.html styling*/
+@import url(index.scss)
+
+.body{
+    background-attachment: fixed;
+    background-color: aqua;
+    list-style-position: inside;
+    color: rgb(226, 87, 87);
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    text-emphasis: none;
+    justify-content: center;
+    viewport-fit: 100%;
+    padding: auto;
+    text-overflow: inherit;
+}
+.h1{
+    text-emphasis: none;
+    text-align: center;
+    text-decoration-color: blue;
+    text-decoration: underline;
+    justify-content: center;
+}
+.form{
+    backface-visibility: visible;
+    background-origin: inherit;
+    background-color: lawngreen;
+}

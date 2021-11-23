@@ -1,0 +1,34 @@
+<?xml version = "1.0"?>
+
+<!--Demonstrating xml sheet-->
+<!DOCTYPE welcome SYSTEM "lang.dtd">
+
+<welcome>
+
+<from>
+
+
+<!--bacaroons contact details-->
+<contact type ="from">
+<name>bacaroons company</name>
+<adress>Box 786-7736</adress>
+<city>Nairobi</city>
+<country>kenya</country>
+<office>kitengela branch</office>
+<telephone>0786547985</telephone>
+<sip>67980</sip>
+</contact>
+
+<paragraph>The above are the contact details of the bacaroons company</paragraph>
+<block>
+<header>
+<companyName>bacaroons company</companyName>
+<companymission>well spring of resourses</companymission>
+</header>
+</block>
+</block>
+
+
+
+
+
